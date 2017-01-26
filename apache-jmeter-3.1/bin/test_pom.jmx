@@ -958,25 +958,22 @@
             <label>true</label>
             <code>true</code>
             <message>true</message>
-            <threadName>true</threadName>
-            <dataType>true</dataType>
+            <threadName>false</threadName>
+            <dataType>false</dataType>
             <encoding>false</encoding>
-            <assertions>true</assertions>
-            <subresults>true</subresults>
+            <assertions>false</assertions>
+            <subresults>false</subresults>
             <responseData>false</responseData>
             <samplerData>false</samplerData>
             <xml>true</xml>
-            <fieldNames>true</fieldNames>
+            <fieldNames>false</fieldNames>
             <responseHeaders>false</responseHeaders>
             <requestHeaders>false</requestHeaders>
             <responseDataOnError>false</responseDataOnError>
             <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
             <assertionsResultsToSave>0</assertionsResultsToSave>
-            <bytes>true</bytes>
-            <sentBytes>true</sentBytes>
-            <threadCounts>true</threadCounts>
-            <idleTime>true</idleTime>
-            <connectTime>true</connectTime>
+            <url>true</url>
+            <fileName>true</fileName>
           </value>
         </objProp>
         <stringProp name="filename">agg_pom_report_${__time(yyyyMMdd-HHmmss)}.xml</stringProp>
