@@ -138,28 +138,28 @@
       <hashTree/>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="Load POST" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="1752172607">
+          <collectionProp name="-1095921196">
             <stringProp name="1531685083">${number_of_threads_a}</stringProp>
             <stringProp name="697592140">${initial_delay}</stringProp>
             <stringProp name="1965751669">${startup_time_a}</stringProp>
             <stringProp name="1267697902">${hold_load}</stringProp>
             <stringProp name="-1606215490">${shutdown_time}</stringProp>
           </collectionProp>
-          <collectionProp name="1780831549">
+          <collectionProp name="-1352973003">
             <stringProp name="1531685114">${number_of_threads_b}</stringProp>
             <stringProp name="697592140">${initial_delay}</stringProp>
             <stringProp name="1965751700">${startup_time_b}</stringProp>
             <stringProp name="1267697902">${hold_load}</stringProp>
             <stringProp name="-1606215490">${shutdown_time}</stringProp>
           </collectionProp>
-          <collectionProp name="1809490491">
+          <collectionProp name="1891034335">
             <stringProp name="1531685145">${number_of_threads_c}</stringProp>
             <stringProp name="697592140">${initial_delay}</stringProp>
             <stringProp name="1965751731">${startup_time_c}</stringProp>
             <stringProp name="1267697902">${hold_load}</stringProp>
             <stringProp name="-1606215490">${shutdown_time}</stringProp>
           </collectionProp>
-          <collectionProp name="1838149433">
+          <collectionProp name="840074377">
             <stringProp name="1531685176">${number_of_threads_d}</stringProp>
             <stringProp name="697592140">${initial_delay}</stringProp>
             <stringProp name="1965751762">${startup_time_d}</stringProp>
@@ -213,28 +213,28 @@
       </hashTree>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="Load GET from dom_rec_queue" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="1752172607">
+          <collectionProp name="-1095921196">
             <stringProp name="1531685083">${number_of_threads_a}</stringProp>
             <stringProp name="697592140">${initial_delay}</stringProp>
             <stringProp name="1965751669">${startup_time_a}</stringProp>
             <stringProp name="1267697902">${hold_load}</stringProp>
             <stringProp name="-1606215490">${shutdown_time}</stringProp>
           </collectionProp>
-          <collectionProp name="1780831549">
+          <collectionProp name="-1352973003">
             <stringProp name="1531685114">${number_of_threads_b}</stringProp>
             <stringProp name="697592140">${initial_delay}</stringProp>
             <stringProp name="1965751700">${startup_time_b}</stringProp>
             <stringProp name="1267697902">${hold_load}</stringProp>
             <stringProp name="-1606215490">${shutdown_time}</stringProp>
           </collectionProp>
-          <collectionProp name="1809490491">
+          <collectionProp name="1891034335">
             <stringProp name="1531685145">${number_of_threads_c}</stringProp>
             <stringProp name="697592140">${initial_delay}</stringProp>
             <stringProp name="1965751731">${startup_time_c}</stringProp>
             <stringProp name="1267697902">${hold_load}</stringProp>
             <stringProp name="-1606215490">${shutdown_time}</stringProp>
           </collectionProp>
-          <collectionProp name="1838149433">
+          <collectionProp name="840074377">
             <stringProp name="1531685176">${number_of_threads_d}</stringProp>
             <stringProp name="697592140">${initial_delay}</stringProp>
             <stringProp name="1965751762">${startup_time_d}</stringProp>
@@ -281,28 +281,28 @@
       </hashTree>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="Load GET from dom_rec_results" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="1752172607">
+          <collectionProp name="-1095921196">
             <stringProp name="1531685083">${number_of_threads_a}</stringProp>
             <stringProp name="697592140">${initial_delay}</stringProp>
             <stringProp name="1965751669">${startup_time_a}</stringProp>
             <stringProp name="1267697902">${hold_load}</stringProp>
             <stringProp name="-1606215490">${shutdown_time}</stringProp>
           </collectionProp>
-          <collectionProp name="1780831549">
+          <collectionProp name="-1352973003">
             <stringProp name="1531685114">${number_of_threads_b}</stringProp>
             <stringProp name="697592140">${initial_delay}</stringProp>
             <stringProp name="1965751700">${startup_time_b}</stringProp>
             <stringProp name="1267697902">${hold_load}</stringProp>
             <stringProp name="-1606215490">${shutdown_time}</stringProp>
           </collectionProp>
-          <collectionProp name="1809490491">
+          <collectionProp name="1891034335">
             <stringProp name="1531685145">${number_of_threads_c}</stringProp>
             <stringProp name="697592140">${initial_delay}</stringProp>
             <stringProp name="1965751731">${startup_time_c}</stringProp>
             <stringProp name="1267697902">${hold_load}</stringProp>
             <stringProp name="-1606215490">${shutdown_time}</stringProp>
           </collectionProp>
-          <collectionProp name="1838149433">
+          <collectionProp name="840074377">
             <stringProp name="1531685176">${number_of_threads_d}</stringProp>
             <stringProp name="697592140">${initial_delay}</stringProp>
             <stringProp name="1965751762">${startup_time_d}</stringProp>
@@ -965,7 +965,7 @@
             <subresults>true</subresults>
             <responseData>false</responseData>
             <samplerData>false</samplerData>
-            <xml>false</xml>
+            <xml>true</xml>
             <fieldNames>true</fieldNames>
             <responseHeaders>false</responseHeaders>
             <requestHeaders>false</requestHeaders>
@@ -979,7 +979,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">agg_pom_report_${__time(yyyyMMdd-HHmmss)}.csv</stringProp>
+        <stringProp name="filename">agg_pom_report_${__time(yyyyMMdd-HHmmss)}.xml</stringProp>
       </ResultCollector>
       <hashTree/>
       <PostThreadGroup guiclass="PostThreadGroupGui" testclass="PostThreadGroup" testname="tearDown Thread Group" enabled="true">
